@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chatlog Output"
+  short_description: "Export Codex session chatlogs"
+  default_prompt: "Use $chatlog-output to export the current Codex session chatlog."
